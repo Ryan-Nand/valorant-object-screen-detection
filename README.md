@@ -1,0 +1,1 @@
+# valorant-screen-detection
